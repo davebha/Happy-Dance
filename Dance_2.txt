@@ -1,0 +1,5 @@
+jump up x 2
+take a step to the left
+take a step to the right
+clap clap clap clap
+do the happy dance
